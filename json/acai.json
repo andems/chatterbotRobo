@@ -1,0 +1,36 @@
+{
+    "conversas":[
+        {
+            "mensagens": ["Quais as massas?", "quero um acai", "quero fazer um pedido"],
+            "resposta": "Trabalhamos com as massas de acai, cupuacu, acai com creme, acai com morango e sorvetes"
+        },
+        {
+            "mensagens": ["Quais os sabores de sorvetes ?"],
+            "resposta": "Morango, Chocolate, Coco, Maracuja e Creme"
+        },
+        {
+            "mensagens": ["Quais os valores ?"],
+            "resposta": "Todos sao pesados, temos precos aparte de 8,00 reais"
+        },
+        {
+            "mensagens": ["Qual o horario de funcionamento ?"],
+            "resposta": "Funcionamos de terca aos domingos de 13:30 as 20:00"
+        },
+        {
+            "mensagens": ["Quais as formas de pagamentos ?"],
+            "resposta": "Aceitamos cartao de credito e debito, dinheiro e pix"
+        },
+        {
+            "mensagens": ["Quais os complementos ?"],
+            "resposta": "Temos frutas (uva, morango e banana), gotas de chocolate, granola, leite em po, leite condesado, bis e MMs"
+        },
+        {
+            "mensagens": ["Qual a localização ?"],
+            "resposta": "Ficamos localizado na avenida progresso, numero 70"
+        },
+        {
+            "mensagens": ["Até quantos complementos ?"],
+            "resposta": "pode ser escolhido ate cinco(5) complementos"
+        }
+    ]
+}

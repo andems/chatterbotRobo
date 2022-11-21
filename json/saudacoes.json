@@ -1,0 +1,20 @@
+{
+    "conversas":[
+        {
+            "mensagens": ["ola", "oi"],
+            "resposta": "ola, sou o robo de atendimento do acai, como posso ajudar?"
+        },
+        {
+            "mensagens": ["bom dia"],
+            "resposta": "bom dia, sou o robo de atendimento do acai, como posso ajudar?"
+        },
+        {
+            "mensagens": ["boa tarde"],
+            "resposta": "boa tarde, sou o robo de atendimento do acai, como posso ajudar?"
+        },
+        {
+            "mensagens": ["boa noite"],
+            "resposta": "boa noite, sou o robo de atendimento do acai, como posso ajudar?"
+        }
+    ]
+}
